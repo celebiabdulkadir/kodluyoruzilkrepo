@@ -19,3 +19,5 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[Patika.dev profilime buraya tıklayarak erişebilirsiniz!](https://app.patika.dev/kadircelebi)
